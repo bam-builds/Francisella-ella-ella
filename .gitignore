@@ -1,0 +1,22 @@
+bash # Large data files
+*.raw
+*.mzML
+data/raw/*
+!data/raw/README.md
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Sensitive info
+config/credentials.json
+*.key
