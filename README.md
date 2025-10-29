@@ -24,8 +24,8 @@ This repository contains code and analysis for identifying TCS-regulated secreti
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/bam-builds/francisella-tcs-analysis.git
-cd francisella-tcs-analysis
+git clone https://github.com/bam-builds/francisella-ella-ella.git
+cd francisella-ella-ella
 ```
 
 2. Install required Python packages:
@@ -64,7 +64,7 @@ After running the analysis, you'll find:
 ## Project Structure
 
 ```
-francisella-tcs-analysis/
+francisella-ella-ella/
 ├── analysis.py                 # Main analysis script
 ├── requirements.txt            # Python dependencies
 ├── src/
