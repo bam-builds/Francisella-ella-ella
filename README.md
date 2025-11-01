@@ -7,7 +7,7 @@ Computational framework for analyzing two-component systems in Francisella speci
 ✅ Working - Demo version with sample data
 
 ## Author
-- Brittany Moretz (bmoretz@gmu.edu.edu)
+- Brittany Moretz (bmoretz@gmu.edu)
 
 ## Description
 This repository contains code and analysis for identifying TCS-regulated secretion networks in Francisella novicida. The analysis pipeline processes proteomics data to:
