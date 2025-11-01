@@ -1,21 +1,3 @@
-Implement working TCS analysis pipeline with demo data
-- Created main analysis.py script that runs complete TCS analysis
-- Implemented stub modules for data retrieval, secretion prediction, and PTM analysis
-- Added sample data generation for demonstration
-- Generated analysis outputs including phosphosite analysis and volcano plots
-- Updated README with installation and usage instructions
-- Added requirements.txt for Python dependencies
-
-The pipeline successfully:
-- Identifies TCS proteins (response regulators, sensor kinases, FPI genes)
-- Analyzes phosphorylation sites with quality filtering
-- Predicts secreted proteins using sequence features
-- Performs differential expression analysis
-- Integrates results to find TCS-regulated secreted proteins
-
-All code is now executable and generates meaningful visualizations and data tables.
-
-
 #!/usr/bin/env python3
 """
 Francisella Two-Component Systems Analysis
