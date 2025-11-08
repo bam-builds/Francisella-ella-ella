@@ -1,0 +1,8 @@
+contrast,total,sig_up,sig_down
+Cold_25C_vs_Control,6,1,0
+Heat_42C_vs_Control,6,0,0
+Iron_limit_vs_Control,6,2,0
+Nutrient_starv_vs_Control,6,0,0
+Osmotic_vs_Control,6,0,0
+Oxidative_vs_Control,6,1,0
+pH_stress_vs_Control,6,0,0
